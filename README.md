@@ -23,6 +23,7 @@ Es importante hacer el comentario de que las guías se dividirán así:::
 
 
 ** 2 Parte::
+
 --------- 1. Estructuras de control.
 
 ----------2. Secuencial.
