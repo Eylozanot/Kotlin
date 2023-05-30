@@ -43,6 +43,8 @@ Es importante hacer el comentario de que las guías se dividirán así:::
 
 ----------10. Ciclo For.
 
+----------11. Ejercicios.
+
 
 En cada una de ellas encontrarán ejercicios prácticos referentes al tema que se trata secuencialmente.
 
